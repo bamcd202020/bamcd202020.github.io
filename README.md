@@ -7,4 +7,5 @@ Aside from my major, I have a passion for modding and program development.
 [Iris - a graphics mod for Assetto Corsa](https://www.overtake.gg/downloads/iris-ultra-realistic-ppfilter-for-pure-gamma-lcs.82295/)
 -- This is a graphics patch for a sim-racing game called Assetto Corsa. It's one of my proudest projects outside of my main focus. 
 It overhauls lighting, dynamically adjusts in-game parameters, and more.  
+  
 [My GitHub](https://github.com/bamcd202020?tab=repositories)
